@@ -1,0 +1,12 @@
+# Data outputs
+data/*.json
+data/*.db
+data/*.csv
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Virtual environment
+.venv/
